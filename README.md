@@ -3,6 +3,8 @@
 技术栈：`Vue3`+`vite`+`vueuse`+`Ant Design Vue 4.x`
 
 ## 使用该模板
+
+### 互联网环境([仓库地址](https://github.com/niesk/template-vue))
 ```shell
 npx degit github:niesk/template-vue my-project
 
@@ -23,7 +25,10 @@ pnpm install
 pnpm run dev
 ```
 
-## [前端开发规范](DEVELOPMENT.md)
+### 内网环境
+直接克隆或下载本仓库代码到本地
+
+## [前端开发规范](https://git.cisdigital.cn/qtouch/cisdi_projects/qingtan/front/qingtan-web/-/wikis/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83)
 
 ## 目录结构说明
 
